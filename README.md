@@ -22,12 +22,12 @@ Using NOR gates NOR gate is actually a combination of two logic gates: OR gate f
 F=(((C.B'.A)+(D.C'.A)+(C.B'.A))')'
 
 ## Procedure
-# Step 1: Create a project with required entities. 
-# Step 2: Create a module along with respective file name. 
-# Step 3: Run the respective programs for the given boolean equations. 
-# Step 4: Run the module and get the respective RTL outputs. 
-# Step 5: Create university program(VWF) for getting timing diagram. 
-# Step 6: Give the respective inputs for timing diagram and obtain the results.
+Step 1: Create a project with required entities. 
+Step 2: Create a module along with respective file name. 
+Step 3: Run the respective programs for the given boolean equations. 
+Step 4: Run the module and get the respective RTL outputs. 
+Step 5: Create university program(VWF) for getting timing diagram. 
+Step 6: Give the respective inputs for timing diagram and obtain the results.
 
 # Program:
 ```
@@ -73,7 +73,7 @@ endmodule
 # RTL realization:
 ![Screenshot 2023-05-14 172834](https://github.com/Vaishnavi-saravanan/Experiment--02-Implementation-of-combinational-logic-/assets/118541897/6e943938-433d-4eec-86a6-cb472b49e144)
 # Timing Diagram:
-![Uploading Screenshot 2023-05-14 172841.png…]()
+![Screenshot 2023-05-14 172841](https://github.com/Vaishnavi-saravanan/Experiment--02-Implementation-of-combinational-logic-/assets/118541897/a9d8b239-8d55-4ba3-bfa7-1029615f819a)
 # Truth Table:
 ![Screenshot 2023-05-14 172853](https://github.com/Vaishnavi-saravanan/Experiment--02-Implementation-of-combinational-logic-/assets/118541897/5c56f01e-58b4-4246-8c09-2baa42a0d2d0)
 # Result:
